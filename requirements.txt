@@ -1,0 +1,8 @@
+flask 
+twilio
+pyngrok
+faiss-cpu
+langchain
+openai
+langchain-community
+tiktoken
