@@ -1,8 +1,7 @@
-flask 
-twilio
-pyngrok
-faiss-cpu
-langchain
 openai
-langchain-community
-tiktoken
+fastapi 
+uvicorn 
+twilio 
+pydantic 
+python-multipart 
+websockets
